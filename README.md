@@ -42,5 +42,8 @@ the derivation file is shown as 数学推导.pdf
 2. results about IS method and comparing
 ![image](https://user-images.githubusercontent.com/77960694/111874623-02053d00-89d1-11eb-9915-dbddc968398a.png)
 ![image](https://user-images.githubusercontent.com/77960694/111874632-0af60e80-89d1-11eb-8825-ecc15a183a41.png)
-
-
+### 3.3 coding logic
+1. Data process, we only use open price and volume counting on minute, and the data resouce is the same as the thesis(上证50ETF（510050)), but we use the data of 2020.10.27-2021.03. We use date as index and time as colums, so it is a 94*240 dataframe(from 9:30 to 15:00, there are 240 minutes)
+2. We first apply VWAP method, calculate the market VWAP and the predicted VWAP, and cpmpare them with some extreme case
+3. Then we apply IS method, which is using an algo to find solution to an equation, which is use to find a volume strategy of trading during a day.
+4. We make back test for VWAP method and IS method, compare their result, which proves that IS is better than VWAP
