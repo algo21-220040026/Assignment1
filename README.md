@@ -29,7 +29,18 @@ So my work consists of two part: mathematical derivation and empirical analysis.
 1. derive the method of VWAP
 2. derive the method of IS we are going to use
 3. derive the algo applying in IS.
+the derivation file is shown as 数学推导.pdf
 ### 3.2 Empirical Analysis
 1. results about VWAP method
-2. results about IS method
-3. comparing
+![image](https://user-images.githubusercontent.com/77960694/111874524-bbafde00-89d0-11eb-9f51-3ee2b4c967e0.png)
+![image](https://user-images.githubusercontent.com/77960694/111874538-c8343680-89d0-11eb-9a52-e64b82be4834.png)
+![image](https://user-images.githubusercontent.com/77960694/111874548-d2563500-89d0-11eb-8e1d-e9eff5c15f38.png)
+![image](https://user-images.githubusercontent.com/77960694/111874565-da15d980-89d0-11eb-894e-4901dee2de2a.png)
+![image](https://user-images.githubusercontent.com/77960694/111874572-e306ab00-89d0-11eb-9a62-ee6c46202e9d.png)
+![image](https://user-images.githubusercontent.com/77960694/111874577-eac64f80-89d0-11eb-8352-044204ac14a5.png)
+![image](https://user-images.githubusercontent.com/77960694/111874586-f0bc3080-89d0-11eb-9c48-f4bfc120a00e.png)
+2. results about IS method and comparing
+![image](https://user-images.githubusercontent.com/77960694/111874623-02053d00-89d1-11eb-9915-dbddc968398a.png)
+![image](https://user-images.githubusercontent.com/77960694/111874632-0af60e80-89d1-11eb-8825-ecc15a183a41.png)
+
+
